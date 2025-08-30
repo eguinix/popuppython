@@ -135,11 +135,3 @@ Sinta-se à vontade para:
 - Reportar bugs ou sugerir melhorias
 
 ---
-
-**Divirta-se programando com o Clippy! 🐍✨**
-# popuppython
-# popuppython
-# popuppython
-# popuppython
-# popuppython
-# popuppython
