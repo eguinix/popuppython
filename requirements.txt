@@ -1,0 +1,17 @@
+# Clippy Popup - Requirements
+
+# Python 3.11 ou superior
+# tkinter (incluído na instalação padrão do Python)
+# random (biblioteca padrão)
+# sys (biblioteca padrão)
+# os (biblioteca padrão)
+
+# Dependências externas:
+Pillow>=9.0.0  # Para manipulação de imagens
+
+# Instalação:
+# pip install Pillow
+# ou
+# sudo pacman -S python-pillow (Arch Linux)
+# sudo apt install python3-pil (Ubuntu/Debian)
+# brew install python-pillow (macOS)
